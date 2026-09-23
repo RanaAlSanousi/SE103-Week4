@@ -1,0 +1,13 @@
+Student Name: Rana AlSanousi
+
+What editing a file means:
+-Making changes, additions, deletions and evry maneuver to be made wihtin the code usind a text editor.
+
+What staging a file means:
+-Taking this file or idea of a file into a temporary holding space to prepare it, give it a last look, before taking the next steps
+
+What committing a file means:
+-Moving whatever is on the staging area, and saving it perminantly into the project/repo.
+
+Why staging is useful:
+-It breaks larger messy sessions, Shows the work that is edited or added before being saved perminantly, and it allows me to choose whether I would like to save everything i've been working on or just a few things.
