@@ -1,0 +1,13 @@
+Student Name: Rana AlSanousi
+GitHub Username: RanaAlSanousi
+
+Authentication method I used: PAT
+
+Why I chose this method: They are highly secure personal keys that can have sscopes for specific permissions, and can be destroyed easily if anything is compromised.
+
+One security habit I must follow with this method: To never share, never store it on any shared platforms (google keep, phone note app, any AI). Either store is locally on an offline notepad or physicaly. The other thing i to have a very close and strict expiration date. 
+
+Difference between a commit and a push: commits are on the local device, their purpose is to stage the changes, on my offline and only visible to me. While the push is sending the data to the remote server, needing an internet connection and sharing my updates with the world so it is visible to everyone.
+
+My repository URL:
+https://github.com/RanaAlSanousi/SE103-Week4
