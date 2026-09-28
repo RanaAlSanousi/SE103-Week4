@@ -1,0 +1,16 @@
+Student Name: Rana Alsanousi
+Sample Input: [4, 15, 10, 22, 8]
+
+Step-by-step trace:
+1. The list has 5 numbers, so it is not empty. Set count = 0.
+2. Check 4: 4 > 10 is false. count stays 0.
+3. Check 15: 15 > 10 is true. count becomes 1.
+4. Check 10: 10 > 10 is false, because 10 is equal to 10, not greater. count stays 1.
+5. Check 22: 22 > 10 is true. count becomes 2.
+6. Check 8: 8 > 10 is false. count stays 2.
+7. The end of the list is reached. Output count.
+
+Final output: 2
+
+Empty list input: []
+Empty list result: Error: list is empty

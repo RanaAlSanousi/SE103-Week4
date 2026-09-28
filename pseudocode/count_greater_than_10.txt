@@ -1,0 +1,26 @@
+Student Name: Rana Alsanousi
+
+Problem:
+Count how many numbers in a list are greater than 10.
+
+Input:
+a list of numbers
+
+Output:
+the count, or an error if the list is empty
+
+Pseudocode:
+START
+    READ the list of numbers
+    IF the list is empty
+        OUTPUT "Error: list is empty"
+        STOP
+    END IF
+    SET count = 0
+    FOR each number in the list
+        IF number > 10
+            SET count = count + 1
+        END IF
+    END FOR
+    OUTPUT count
+END
