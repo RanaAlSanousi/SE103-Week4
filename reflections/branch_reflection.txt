@@ -8,3 +8,4 @@ Why add-reflection is a better branch name than test or changes:
 
 What stays protected when I work on a branch instead of main:
 The main branch stays protected because your work happens on a separate branch and doesn't affect it until you merge. This means the stable, working version of the project remains safe even if your branch has bugs or unfinished code. Teammates can keep using main without being disrupted by your in-progress changes.
+Working on a branch let me finish this file without changing anything on main.
