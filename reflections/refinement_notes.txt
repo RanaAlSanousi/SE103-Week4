@@ -1,0 +1,10 @@
+Student Name: Rana Alsanousi
+
+Which phrases were too vague:
+The phrase "Check them" was vague because it never said what to check the scores against or what a passing score even is. "Find who failed" was unclear because it didn't define what "failed" means or what should be done with the students who failed. "Show result" was also vague because it didn't specify what result to display, in what format, or what to do if there were no failures at all.
+
+How I made each vague part specific:
+I replaced "Check them" with a clear rule: a score below 50 counts as failing. For "Find who failed," I used a loop that goes through each score and adds it to a failing_scores list when it is under 50. For "Show result," I wrote an IF/ELSE that prints the failing scores when the list is not empty, and prints a message like "No failures" when nobody failed.
+
+Why refinement matters before coding:
+If a programmer only had the weak draft, they would have to guess what counts as failing, how to collect the failing scores, and what to output when there are none. Those guesses could lead to code that works differently than intended, causing wasted time and bugs. Refining the requirements first removes the ambiguity so the code matches what is actually needed.
