@@ -1,0 +1,16 @@
+Student Name: Rana Alsanousi
+GitHub Username: RanaAlSanousi
+
+Authentication method I used: PAT
+
+Why I chose this method:
+because it serves as a secure, modern alternative to using standard passwords for Git authentication. Many major hosting platforms, like GitHub, have deprecated password-based authentication for command-line operations to improve ecosystem security. Additionally, a PAT allows me to scope specific permissions and set an expiration date, minimizing potential damage if the token is ever compromised.
+
+One security habit I must follow with this method:
+You must never hardcode your PAT into scripts or check it into public repositories. Treat your token exactly like a password by storing it in a secure credential manager or as an environment variable on your local machine. If a token is accidentally exposed, you must revoke it immediately through your hosting account settings to block unauthorized access.
+
+Difference between a commit and a push:
+A commit saves your changes locally, creating a new version checkpoint within your local Git repository on your machine. This step does not require an internet connection and is not visible to anyone else working on the project. In contrast, a push uploads those local commits to a remote repository, such as GitHub or GitLab, making your updates accessible to your team. While a commit packages your work into a neat history snapshot, a push is the action that actually shares that package with the cloud.
+
+My repository URL:
+https://github.com/RanaAlSanousi/SE103-Week4
