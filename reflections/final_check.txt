@@ -12,4 +12,13 @@ Branches let you make changes safely without touching main, and a pull request i
 One thing that confused me in this project and how I solved it:
 At first I was confused about the difference between forking and cloning, because both seemed to create a copy of a repository. I didn't understand why I would ever fork if I could just clone. I solved it by realizing that forking matters when the repository belongs to someone else and I don't have write access, while cloning is enough for my own repositories. After thinking through who owns the repo and who has permission to push, the choice became clear.
 
+What I understand better about algorithms now:
+I now understand that an algorithm is just a clear, step-by-step set of instructions for solving a problem, not something mysterious. The order of the steps matters, because even small changes like checking a condition before or after a loop can change the result. I also learned that algorithms need to handle edge cases, like when a list is empty or no scores failed, not just the normal case. Breaking a problem into smaller steps made it easier to see how the pieces fit together. Writing pseudocode first helped me focus on the logic before worrying about exact syntax.
+
+How tracing changed my confidence:
+Tracing my pseudocode step by step made me feel much more confident because I could actually see what values each variable held at every stage. Before tracing, I sometimes guessed whether my logic was correct, but tracing showed me exactly where things went right or wrong. It also helped me catch mistakes early, like a condition that never triggered or a loop that skipped an item. Seeing the correct output appear after tracing confirmed that my algorithm worked, which made coding feel less intimidating.
+
+One pseudocode habit I will keep:
+One habit I will keep is writing my loop and IF/ELSE conditions in plain language before turning them into code. This helps me catch unclear or missing steps early, before I get stuck on syntax. I will also keep tracing my pseudocode with small sample inputs, especially edge cases like empty lists or no failures. These habits make my logic stronger and save time when I finally write the real code.
+
 All required files are on main: Yes
