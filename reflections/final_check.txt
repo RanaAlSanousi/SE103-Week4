@@ -1,0 +1,15 @@
+Student Name: Rana Alsanousi
+GitHub Username: RanaAlSanousi
+Repository: SE103-Week4
+Repository URL: https://github.com/RanaAlSanousi/SE103-Week4
+
+What a pull request asks teammates to do:
+A pull request asks teammates to review the changes you made on your branch before they are merged into main. They can read the code, leave comments, ask questions, and suggest fixes or improvements. Once the team approves, the pull request can be merged so your work becomes part of the main project.
+
+Why branches and pull requests are used together:
+Branches let you make changes safely without touching main, and a pull request is how you propose those changes to the team. Together they create a workflow where work is done in isolation, then reviewed and approved before it joins the main code. This keeps the project stable and makes sure someone checks the code before it is merged.
+
+One thing that confused me in this project and how I solved it:
+At first I was confused about the difference between forking and cloning, because both seemed to create a copy of a repository. I didn't understand why I would ever fork if I could just clone. I solved it by realizing that forking matters when the repository belongs to someone else and I don't have write access, while cloning is enough for my own repositories. After thinking through who owns the repo and who has permission to push, the choice became clear.
+
+All required files are on main: Yes
