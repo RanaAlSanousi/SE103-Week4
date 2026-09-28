@@ -1,0 +1,28 @@
+Student Name: Rana Alsanousi
+
+Problem:
+Baking a cake from scratch requires mixing raw ingredients in a precise sequence and baking the batter at a controlled temperature. It transforms loose, dry and wet components into a single, cohesive dessert.
+
+Input:
+All required ingredients (flour, sugar, eggs, butter, and baking powder) must be measured out, and the oven must be fully preheated to 350°F (175°C).
+
+Output:
+A fully baked, golden-brown cake that passes the toothpick test and is ready to cool on a wire rack.
+
+Edge Case Handled:
+The cake is still wet or gooey in the center when the initial baking timer goes off, requiring extra time in the oven.
+
+Pseudocode:
+START
+Grease and flour the baking pan.
+Cream the softened butter and sugar together in a large bowl.
+Beat in the eggs one at a time, then gradually mix in the dry ingredients.
+Pour the batter evenly into the prepared pan and place it in the preheated oven.Set a timer for 30 minutes.
+WHEN the timer rings, insert a toothpick into the center of the cake.
+IF the toothpick comes out clean, 
+THEN:Take the cake out of the oven and place it on a cooling rack.
+ELSE:Leave the cake in the oven and bake for an additional 5 minutes before checking again.
+END
+
+Why this is clear enough to follow:
+This process is highly effective because it breaks down a complex baking task into chronological, bite-sized instructions that anyone can follow. By clearly stating the required inputs upfront, it prevents the user from starting the process unprepared or missing a vital tool. The inclusion of a conditional IF/ELSE statement directly addresses the unpredictability of oven temperatures, giving the baker a clear backup plan if the cake isn't ready. Finally, defining success with a concrete sensory test (the toothpick test) removes any guesswork about when the process is truly finished.
