@@ -1,0 +1,9 @@
+Student Name: Rana Alsanousi
+
+What editing a file means: means making changes to its actual content or structure within your project directory using a text editor or IDE. At this stage, Git notices that modifications have occurred, but the changes only exist locally in your working directory and are not yet tracked as part of a version history.
+
+What staging a file means: means preparing specific changes to be included in your next version history snapshot by running the git add command. This process places the modified files into a temporary index or "staging area," allowing you to curate exactly which edits you want to bundle together.
+
+What committing a file means: means permanently saving the staged changes into your project's local Git repository as a distinct snapshot or "commit." Each commit acts as a permanent restore point that records who made the changes, when they were made, and includes a descriptive message detailing what was altered.
+
+Why staging is useful: because it acts as a buffer zone that gives you precise control over what goes into your next commit. Instead of saving every single edit you made across your project at once, you can group related changes into clean, organized, and focused updates. This flexibility makes it much easier to keep your project's version history readable and easy to navigate for you and your team.
